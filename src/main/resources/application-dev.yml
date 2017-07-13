@@ -1,0 +1,7 @@
+server:
+  port: 18081
+  context-path: /heyboy
+people:
+  name: 马烽辉
+  age: 25
+  sex: 男

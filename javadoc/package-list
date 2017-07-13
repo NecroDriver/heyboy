@@ -1,0 +1,14 @@
+com.basic
+com.basic.inherit
+com.basic.single
+com.mafh
+com.mafh.aspect
+com.mafh.controller
+com.mafh.dao
+com.mafh.domain
+com.mafh.enums
+com.mafh.exception
+com.mafh.handle
+com.mafh.properties
+com.mafh.repository
+com.mafh.service
